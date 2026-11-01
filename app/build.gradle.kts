@@ -142,3 +142,11 @@ dependencies {
   // "ksp"(libs.androidx.room.compiler)
   // "ksp"(libs.moshi.kotlin.codegen)
 }
+
+tasks.register<Copy>("exportApkToRoot") {
+  dependsOn("assembleDebug")
+  from(layout.buildDirectory.file("outputs/apk/debug/app-debug.apk"))
+  into(rootProject.layout.projectDirectory.dir("release-apk"))
+  rename { "ObsidianCalc.apk" }
+}
+
