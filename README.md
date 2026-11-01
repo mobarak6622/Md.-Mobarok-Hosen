@@ -1,11 +1,11 @@
-<div align="center">
+# Obsidian Calc — Advanced Scientific Calculator
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+## 📥 সরাসরি APK ডাউনলোড করুন (Download Android APK)
 
-  <h1>Built with AI Studio</h2>
+1. প্রথমে AI Studio থেকে সর্বশেষ কোডটি GitHub-এ **Push / Sync** করুন।
+2. ১–২ মিনিট অপেক্ষা করুন (GitHub-এর উপরের **`▶ Actions`** ট্যাবে সবুজ টিক চিহ্ন আসা পর্যন্ত)।
+3. এরপর নিচের লিংকে ট্যাপ করলেই সরাসরি **`ObsidianCalc.apk`** ডাউনলোড হয়ে যাবে:
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+👉 **[📥 Download ObsidianCalc.apk (Direct Release Link)](../../releases/latest/download/ObsidianCalc.apk)**
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+অথবা উপরের মেনু থেকে **`▶ Actions`** ট্যাবে গিয়ে সর্বশেষ ওয়ার্কফ্লো রান সিলেক্ট করে **Artifacts** থেকে **`ObsidianCalc-APK`** ডাউনলোড করুন।
